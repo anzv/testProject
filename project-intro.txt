@@ -1,0 +1,8 @@
+Annze Villena 
+Group Member: Sameer Muhammad
+INFO 1113 S10
+
+
+Introduction about the project.
+
+Our application is based on helping others with multitasking on their phones. The application is designed to display two different applications on the screen for more productivity. Such as wanting to finish a power point presentation on your phone, but needing to keep switching back and forth on the notes on your phone. Well the application is built for that. Allowing you to display both the power point and your notes without finking through back and forth.
