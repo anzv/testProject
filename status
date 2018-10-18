@@ -1,0 +1,35 @@
+[33mcommit 21acdc6ade239dc4a4f281f42620d28e2bf27a7e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: anzv <annzev0125@gmail.com>
+Date:   Wed Oct 17 19:50:28 2018 -0700
+
+    First commit
+
+ project-intro.txt | 9 [32m+[m[31m--------[m
+ 1 file changed, 1 insertion(+), 8 deletions(-)
+
+[33mcommit b38f2178a19fc899423502bcdfa2bba00d620505[m
+Author: anzv <annzev0125@gmail.com>
+Date:   Sat Oct 13 23:42:39 2018 -0700
+
+    just testing
+
+ project-intro.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 6c5cab70b363c763fcc1c525e0141d4314e4fd6e[m
+Author: anzv <annzev0125@gmail.com>
+Date:   Sat Oct 13 23:03:10 2018 -0700
+
+    added sentence; more to come
+
+ project-intro.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 2d0d7b0367f35349b54855f1f47673c3612dd095[m
+Author: anzv <annzev0125@gmail.com>
+Date:   Sat Oct 13 22:22:24 2018 -0700
+
+    Project introduction
+
+ project-intro.txt | 8 [32m++++++++[m
+ 1 file changed, 8 insertions(+)
